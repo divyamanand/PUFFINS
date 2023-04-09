@@ -1,2 +1,4 @@
 # PUFFINS
-for the site preview please download the files and run "Index.html" after unzipping it...
+for the site preview please visit
+
+https://divyamanand.github.io/PUFFINS/
